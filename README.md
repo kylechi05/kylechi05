@@ -1,4 +1,9 @@
-## Hi there 👋
+## Kyle Chi
+
+**Experience**
+* ACM Webmaster at UIowa (Fall 2024 - Present)
+* SWE at SeatStock (Summer 2024 - Present)
+* SWE Intern at University of Iowa Driving Safety Research Institute (Summer 2022)
 
 <!--
 **kylechi05/kylechi05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
