@@ -1,7 +1,7 @@
 ## Kyle Chi
 
 **Experience**
-* SWE Intern at Berkley Insurance Company (Summer 2025)
+* SWE Intern at W.R. Berkley (Summer 2025)
 * ACM Webmaster at UIowa (Fall 2024 - Spring 2025)
 * SWE at SeatStock (May 2024 - October 2024)
 * Undergraduate Research Assistant (Summer 2024)
