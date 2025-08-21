@@ -1,13 +1,13 @@
 ## Kyle Chi
 
 **Experience**
-* Undergraduate Researcher at the University of Iowa (Fall 2025 - Current)
-* Undergraduate Computer Science Tutor at the University of Iowa (Fall 2025 - Current)
-* SWE Intern at W.R. Berkley (Summer 2025)
-* ACM Webmaster at the University of Iowa (Fall 2024 - Spring 2025)
-* SWE at SeatStock (May 2024 - October 2024)
-* Undergraduate Research Assistant (Summer 2024)
-* SWE Intern at University of Iowa Driving Safety Research Institute (Summer 2022)
+* Undergraduate Researcher at the University of Iowa (Aug 2025 - Current)
+* Undergraduate Computer Science Tutor at the University of Iowa (Aug 2025 - Current)
+* SWE Intern at W.R. Berkley (May - Aug 2025)
+* ACM Webmaster at the University of Iowa (Aug 2024 - May 2025)
+* SWE at SeatStock (May - Oct 2024)
+* Undergraduate Research Assistant (May - Aug 2024)
+* SWE Intern at University of Iowa Driving Safety Research Institute (Jun - Aug 2022)
 
 <!--
 **kylechi05/kylechi05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
